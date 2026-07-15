@@ -92,7 +92,7 @@ cc your_program.c -L. -lft -o your_program
 
 ## 🤖 AI Usage Disclosure
 
-During the development of this project, Artificial Intelligence (Large Language Models) was utilized as an **educational tutor and conceptual guide**. 
+During the development of this project, AI was utilized as an **educational tutor and conceptual guide**. 
 
 **How AI was used:**
 * To break down and explain complex C programming concepts (e.g., pointer arithmetic, memory allocation, and the differences between `memcpy` and `memmove`).
